@@ -7,7 +7,8 @@ It is for study purposes only. I do not garantee that it will still function pro
 `tencent-parse.py vid`
 
 ## How to obtain vid
-https://v.qq.com/x/cover/[.\*]/[vid].html
+https://v.qq.com/x/cover/[.*]/[vid].html
+
 The `vid` is located as shown above. (without brackets)
 
 ## How to download vip-only videos/movies
